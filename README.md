@@ -1,1 +1,4 @@
 # FormalLang
+
+Run program
+$ make
